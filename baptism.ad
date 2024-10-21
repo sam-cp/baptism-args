@@ -1,0 +1,176 @@
+[Paedobaptism]: Not only are converts to Christianity to be baptized, but also
+the children of believers, even before they can make a profession of faith.
+#paedo
+
+[Credobaptism]: Only those who have made a profession of faith in Christ should
+be baptized. #credo
+	<- [Paedobaptism]
+	-> [Paedobaptism]
+
+/*
+# Election, Regeneration, and Salvation
+
+[Elect Definition]: For a person to be elect is for God to know that in the
+future, the person in question will be glorified.
+
+[Elect Church]: The invisible church corresponds exactly to the elect.
+
+[Regenerate Definition]: For a person to be regenerate is for the Holy Spirit to
+have indwelt the person in question and imparted saving grace unto her.
+
+[Necessity of Regeneration]: A person must be regenerated before she can be
+glorified.
+
+[Saved Definition]: For a person to be saved at a moment in time is for it to be
+counterfactually true that if the person in question were to die at that time,
+or if the Resurrection were to take place at that time, she would be glorified.
+
+[Saved Church]: The invisible church corresponds exactly to the saved.
+
+[Regenerate Church]: The invisible church corresponds exactly to the regenerate.
+
+<Grounding Argument for Elective Salvation>: There is no modality by which to
+ground the salvific counterfactual, and since the elect correspond exactly to
+those who will be glorified, it is safe to say that the elect, and only the
+elect, are saved.
+	<+ [Elect Definition]
+	<+ [Saved Definition]
+	+> [Elective Salvation]
+
+[Elective Salvation]: A person is saved if and only if she is elect.
+
+<Grounding Argument for Regenerative Salvation>: There is no modality by which
+to ground the salvific counterfactual, and since regeneration is a necessary
+prerequisite to glorification, it is safe to say that the regenerate, and only
+the regenerate, are saved.
+	<+ [Necessity of Regeneration]
+	<+ [Saved Definition]
+	+> [Regenerative Salvation]
+
+[Regenerative Salvation]: A person is saved if and only if she is regenerate.
+*/
+
+# Covenant Community
+
+[Visible Church Paradigm]: Even though we cannot know with certainty whether a
+person is in the invisible church, God has given us a paradigm by which we might
+have a corresponding visible church. If a person meets the conditions of this
+paradigm, we are to welcome them as part of the visible church, and we are to
+consider them to be part of the invisible church.
+
+## Old Testament
+
+[Infants in the Old Testament]: Infants were part of the visible church /
+covenant community in the Old Testament.
+
+[Genesis 17:9-14]: And God said to Abraham, “As for you, you shall keep my
+covenant, you and your offspring after you throughout their generations. This is
+my covenant, which you shall keep, between me and you and your offspring after
+you: Every male among you shall be circumcised. You shall be circumcised in the
+flesh of your foreskins, and it shall be a sign of the covenant between me and
+you. He who is eight days old among you shall be circumcised. Every male
+throughout your generations, whether born in your house or bought with your
+money from any foreigner who is not of your offspring, both he who is born in
+your house and he who is bought with your money, shall surely be circumcised. So
+shall my covenant be in your flesh an everlasting covenant. Any uncircumcised
+male who is not circumcised in the flesh of his foreskin shall be cut off from
+his people; he has broken my covenant.” #bible
+
+<Genesis 17:7 Interpretation>: While not all children of Israelites were elect,
+God wanted the Israelites to consider them part of his covenant of grace and
+give them the covenant sign.
+	<+ [Genesis 17:9-14]
+	<+ [Visible Church Paradigm]
+	+> [Infants in the Old Testament]
+
+## New Testament
+
+[Children not Removed]: Children were never removed from the covenant community
+of the New Testament. #paedo
+
+[Acts 10:34-35]: So Peter opened his mouth and said: “Truly I understand that
+God shows no partiality, but in every nation anyone who fears him and does what
+is right is acceptable to him. #bible
+
+<Acts 10:34-35 Visible Church Interpretation>: While the invisible church has
+always included God's elect, the visible church / covenant community, which in
+the Old Testament only included the Jews, is expanded to all peoples. #paedo
+	<+ [Acts 10:34-35]
+	+> [New Testament Inclusion]
+
+[New Testament Inclusion]: The covenant community of the New Testament is more
+inclusive than the covenant community of the Old Testament. #paedo
+
+<Covenant Continuation>: Since children were part of the Old Testament covenant
+community and not removed in the New Testament, and since the covenant community
+of the New Testament is intended to be more expansive and inclusive than that of
+the Old, the children of believers are most likely still included in the New
+Testament covenant community. #paedo
+	<+ [Infants in the Old Testament]
+	<+ [Children not Removed]
+	+> [Infants in the Church]
+
+[Infants in the Church]: Infants are part of the New Testament (and thus
+current) covenant community. #paedo
+
+[Galatians 3:7]: Know then that it is those of faith who are the sons of
+Abraham. #bible
+
+<Galatians 3:7 Federalist Interpretation>: Whereas infants who were descended
+from Abraham were counted as members of the covenant community in the Old
+Testament, now all those and only those who have faith are members of the
+covenant community. #credo
+	<+ [Galatians 3:7]
+	+> [Faithful Church]
+
+[Faithful Church]: All those and only those who have faith are members of the
+New Testament covenant community. #credo
+
+[Faithless Infants]: Infants do not have faith.
+
+[Psalm 22:9-10]: Yet you are he who took me from the womb; you made me trust you
+at my mother’s breasts. On you was I cast from my birth, and from my mother’s
+womb you have been my God. #bible
+
+<Psalm 22 Infant Faith Interpretation>: David seems to indicate that infants
+have the capacity for some type of faith/trust in God, even without rational or
+propositional knowledge, likely the same way a child can love and trust her
+parents without knowing why. #paedo
+	<+ [Psalm 22:9-10]
+	+> [Infant Faith]
+
+[Infant Faith]: It is possible for infants to have faith. #paedo
+	-> [Faithless Infants]
+
+<Galatians 3:7 Infant-Inclusive Interpretation>: Paul was intending to exclude
+from the covenant people who had no faith but rooted their salvation and
+righteousness in their Abrahamic lineage. This was not meant to exclude infants,
+whose lack of faith might well be just a necessity. #paedo
+	<+ [Galatians 3:7]
+	_> <Galatians 3:7 Federalist Interpretation>
+
+<Federalist Argument against Churched Infants>: The covenant community, while
+it used to include infants, no longer does, because the requirement for
+membership is faith in Christ. #credo
+
+(1) [Faithful Church]
+(2) [Faithless Infants]
+----
+(3) [No Infants in the Church]
+
+[No Infants in the Church]: Infants are not a part of the New Testament (and
+thus current) covenant community. #credo
+	<- [Infants in the Church]
+	-> [Infants in the Church]
+
+[Luke 18:15-17]: Now they were bringing even infants to him that he might touch
+them. And when the disciples saw it, they rebuked them. But Jesus called them to
+him, saying, “Let the children come to me, and do not hinder them, for to such
+belongs the kingdom of God. Truly, I say to you, whoever does not receive the
+kingdom of God like a child shall not enter it.” #bible
+
+<Luke 18:15-17 Infant Interpretation>: Jesus says that the kingdom of God
+belongs to infants. Since the visible representation of the kingdom of God on
+earth is the (visible) church, infants are part of the visible church. #paedo
+	<+ [Luke 18:15-17]
+	+> [Infants in the Church]
